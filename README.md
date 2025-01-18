@@ -1,2 +1,5 @@
-# Python_Helper_-DS_and_Analytics-
-assistance to novice pythonists and datasynetism specialists and data analysts
+# Твой помошник в мире Python, Data Science и Аналитики данных
+
+Вложения:
+1. Python - Инструменты, шпаргалки, примеры функций и работы с типами данных
+2. Pandas - Основные фишки работы с pandas, с спримерами и описанием
